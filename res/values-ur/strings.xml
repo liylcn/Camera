@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_error_title">کیمرے کی خرابی</string>
+  <string name="cannot_connect_camera">کیمرے سے رابطہ قائم نہیں کر سکتے ہیں.</string>
+  <string name="camera_disabled">کیمرے سیکورٹی کی پالیسیوں کی وجہ سے غیر فعال کردیا گیا ہے.</string>
+  <string name="camera_label">کیمرہ</string>
+  <string name="video_camera_label">کیم  کودر</string>
+  <string name="wait">براہ کرم انتظار کریں  \u2026</string>
+  <string name="no_storage" product="nosdcard">کیمرے کا استعمال کرنے سے پہلے براہ مہربانی یو ایس بی سٹوریج کو ماؤنٹ.کریں.</string>
+  <string name="no_storage" product="default">کیمرے کا استعمال  کرنے سے پہلے براہ مہربانی ایک ایسڈی کارڈ داخل کریں.</string>
+  <string name="preparing_sd" product="nosdcard">یوایسبی سٹوریج تیارu2026\</string>
+  <string name="preparing_sd" product="default">ایس ڈی کارڈ u2026\ کی تیاری</string>
+  <string name="access_sd_fail" product="nosdcard">یو ایس بی سٹوریج تک رسائی حاصل کرنے میں ناکام رہے.</string>
+  <string name="access_sd_fail" product="default">ایس ڈی کارڈ تک رسائی حاصل کرنے میں ناکام رہے.</string>
+  <string name="review_cancel">منسوخ</string>
+  <string name="review_ok">مکمل</string>
+  <string name="time_lapse_title">وقت گزر جانے کے ریکارڈنگ</string>
+  <string name="pref_camera_id_title">کیمرے کا انتخاب کریں </string>
+  <string name="pref_camera_id_entry_back">پیچھے</string>
+  <string name="pref_camera_id_entry_front">سامنے</string>
+  <string name="pref_camera_recordlocation_title">سٹور کی جگہ</string>
+  <string name="pref_video_quality_title">ویڈیو کا معیار</string>
+  <string name="pref_video_time_lapse_frame_interval_title">وقت گزر جانے کے وقفہ</string>
+  <string name="pref_camera_settings_category">کیمرے کی تصاویر</string>
+  <string name="pref_camcorder_settings_category">کیم  کودر کی ترتیبات</string>
+  <string name="pref_camera_picturesize_title">تصویر کا سائز</string>
+  <string name="pref_camera_focusmode_title">موڈ پر توجہ مرکوز</string>
+  <string name="pref_camera_focusmode_entry_auto">خودکار</string>
+  <string name="pref_camera_focusmode_entry_infinity">انفینٹی</string>
+  <string name="pref_camera_focusmode_entry_macro">میکرو</string>
+  <string name="pref_camera_flashmode_title">فلیش موڈ</string>
+  <string name="pref_camera_flashmode_entry_auto">خودکار</string>
+  <string name="pref_camera_flashmode_entry_on">آن</string>
+  <string name="pref_camera_flashmode_entry_off">آف</string>
+  <string name="pref_camera_whitebalance_title">سفید میزان</string>
+  <string name="pref_camera_whitebalance_entry_auto">خودکار</string>
+  <string name="pref_camera_whitebalance_entry_incandescent">تاپدیپت</string>
+  <string name="pref_camera_whitebalance_entry_daylight">دن کی روشنی</string>
+  <string name="pref_camera_whitebalance_entry_fluorescent">ٹیوب کی روشنی</string>
+  <string name="pref_camera_whitebalance_entry_cloudy">آسمان ابر آلود</string>
+  <string name="pref_camera_scenemode_title">شبینہ موڈ</string>
+  <string name="pref_camera_scenemode_entry_auto">خودکار</string>
+  <string name="pref_camera_scenemode_entry_action">کارروائی</string>
+  <string name="pref_camera_scenemode_entry_night">رات</string>
+  <string name="not_selectable_in_scene_mode">منظر  موڈ میں  انتخاب نہیں  کر  سکتے.</string>
+  <string name="pref_exposure_title">ایکپوژر</string>
+  <string name="dialog_ok">اوکے</string>
+  <string name="spaceIsLow_content" product="nosdcard">آپ کی یو ایس بی سٹوریج کی جگہ باہر چل رہی ہے معیار کی ترتیب کو تبدیل کریں یا کچھ تصاویر یا دیگر فائلوں کو خارج کر دیں.</string>
+  <string name="spaceIsLow_content" product="default">آپ کی ایس ڈی کارڈ کی جگہ باہر چل رہا ہے معیار کی ترتیب کو تبدیل کریں یا کچھ تصاویر یا دیگر فائلوں کو خارج کر دیں. ہے.</string>
+  <string name="video_reach_size_limit">سائز کی حد تک پہنچ گئی</string>
+  <string name="pano_too_fast_prompt">بہت تیز</string>
+  <string name="pano_dialog_prepare_preview">پینورما کی تیاری</string>
+  <string name="pano_dialog_panorama_failed">پینورما کو محفوظ نہیں کیا جا سکا.</string>
+  <string name="pano_dialog_title">پینورما</string>
+  <string name="pano_capture_indication">پینورما پر قبضہ</string>
+  <string name="pano_review_saving_indication_str">\u2026 محفوظ کر رہا ہے</string>
+  <string name="tap_to_focus">توجہ مرکوز کرنے  لیے چھویں.</string>
+  <string name="pref_video_effect_title">اثرات</string>
+  <string name="effect_none">کوئی نہیں</string>
+  <string name="effect_goofy_face_squeeze">سکوڑیں</string>
+  <string name="effect_goofy_face_big_eyes">بڑی آنکھوں</string>
+  <string name="effect_goofy_face_big_mouth">بڑے منہ</string>
+  <string name="effect_goofy_face_small_mouth">چھوٹے منہ</string>
+  <string name="effect_goofy_face_big_nose">بگ ناک</string>
+  <string name="effect_goofy_face_small_eyes">چھوٹے آنکھیں</string>
+  <string name="effect_backdropper_space">خلا میں</string>
+  <string name="effect_backdropper_sunset">غروب آفتاب</string>
+  <string name="effect_backdropper_gallery">آپ کے اپنے منتخب</string>
+  <string name="bg_replacement_message">آپ کے آلے سیٹ کریں </string>
+  <string name="video_snapshot_hint">طرف سے ویڈیو ریکارڈنگ کے دوران ایک تصویر  لینے  کے  لیے    پیش نظارہ سکرین کو چھوئیں.</string>
+  <string name="disable_video_snapshot_hint">ویڈیو سنیپشاٹ کو غیر فعال کر دیا گیا ہے جب خاص اثرات آن ہوتے ہیں.</string>
+  <string name="clear_effects">واضح اثرات</string>
+  <string name="effect_silly_faces">بیوکوف چہروں</string>
+  <string name="effect_background">پس منظر</string>
+  <string name="accessibility_shutter_button">شٹر بٹن</string>
+  <string name="accessibility_review_thumbnail">سب سے حالیہ تصویر</string>
+  <string name="accessibility_camera_picker">سامنے اور پیچھے کیمرے سوئچ</string>
+  <string name="accessibility_mode_picker">کیمرے، ویڈیو، یا پینا روما سلیکٹر</string>
+  <string name="accessibility_second_level_indicators">مزید ترتیبات یہ کنٹرول</string>
+  <string name="accessibility_back_to_first_level">بند ترتیبات یہ کنٹرول</string>
+  <string name="accessibility_zoom_control">زوم کنٹرول</string>
+  <string name="accessibility_decrement">گھٹائیں %1$s</string>
+  <string name="accessibility_increment"> %1$sاضافہ</string>
+  <string name="pano_dialog_waiting_previous">"پچھلے گردو پیش مناظر کے لئے انتظار کر رہا ہے"</string>
+  <string name="accessibility_switch_to_camera">"تصاویر پر سوئچ کریں"</string>
+  <string name="accessibility_switch_to_video">ویڈیو پر سوئچ کریں</string>
+  <string name="accessibility_switch_to_panorama">پینورما پر سوئچ کریں</string>
+</resources>

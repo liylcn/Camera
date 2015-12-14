@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_error_title">ကင္မရာအမွား</string>
+  <string name="cannot_connect_camera">ကင္မရာသို႔ မခ်ိတ္ဆက္ႏိုင္ပါ။</string>
+  <string name="camera_disabled">လံုျခံဳေရးဆိုင္ရာ မူဝါဒမ်ားအရ ကင္မရာအား ျဖဳတ္ထားသည္။</string>
+  <string name="camera_label">ကင္မရာ</string>
+  <string name="video_camera_label">ဗီဒီယုိကင္မရာ</string>
+  <string name="wait">ေစာင့္ဆိုင္းပ\u2026</string>
+  <string name="no_storage" product="nosdcard">ကင္မရာမသံုးခင္ USB သိမ္းဆည္းမႈပစၥည္းကို တင္ပါ။</string>
+  <string name="no_storage" product="default">ကင္မရာအသံုးမျပဳမီ SD ကဒ္ထည့္သြင္းပါ။</string>
+  <string name="preparing_sd" product="nosdcard">USB သိမ္းဆည္းမႈျပင္ဆင္ေနဆဲ\u2026</string>
+  <string name="preparing_sd" product="default">SD ကဒ္ကို ျပင္ဆင္ေနဆဲ\u2026</string>
+  <string name="access_sd_fail" product="nosdcard">USB သိမ္းဆည္းမႈပစၥည္းသို႔ မဝင္ေရာက္ႏိုင္ပါ။</string>
+  <string name="access_sd_fail" product="default">SD ကဒ္သို႔ မဝင္ေရာက္ႏိုင္ပါ။</string>
+  <string name="review_cancel">မလုပ္ပါ</string>
+  <string name="review_ok">ျပီးျပီ</string>
+  <string name="time_lapse_title">ၾကာျမင့္ခ်ိန္မွတ္တမ္းတင္ျခင္း</string>
+  <string name="pref_camera_id_title">ကင္မရာေ႐ြးခ်ယ္ပါ</string>
+  <string name="pref_camera_id_entry_back">ေနာက္သို႔</string>
+  <string name="pref_camera_id_entry_front">ေ႐ွ႕</string>
+  <string name="pref_camera_recordlocation_title">စတိုးတည္ေနရာ</string>
+  <string name="pref_video_quality_title">ဗီဒီယိုအရည္အေသြး</string>
+  <string name="pref_video_time_lapse_frame_interval_title">ၾကာျမင့္ခ်ိန္အပိုင္းအျခား</string>
+  <string name="pref_camera_settings_category">ကင္မရာ႐ုပ္ပံုမ်ား</string>
+  <string name="pref_camcorder_settings_category">ဗီဒီယိုကင္မရာအဆင္အျပင္မ်ား</string>
+  <string name="pref_camera_picturesize_title">႐ုပ္ပံုအ႐ြယ္အစား</string>
+  <string name="pref_camera_focusmode_title">ဆံုခ်က္ခ်ိန္သည့္ပံုစံ</string>
+  <string name="pref_camera_focusmode_entry_auto">အလိုအေလ်ာက္</string>
+  <string name="pref_camera_focusmode_entry_infinity">အဆံုးမ႐ွိ</string>
+  <string name="pref_camera_focusmode_entry_macro">အၾကီးစား</string>
+  <string name="pref_camera_flashmode_title">မီးလက္ေစသည့္ပံုစံ</string>
+  <string name="pref_camera_flashmode_entry_auto">အလိုအေလ်ာက္</string>
+  <string name="pref_camera_flashmode_entry_on">ဖြင့္</string>
+  <string name="pref_camera_flashmode_entry_off">ပိတ္</string>
+  <string name="pref_camera_whitebalance_title">အျဖဴအေရာင္ညွိခ်က္</string>
+  <string name="pref_camera_whitebalance_entry_auto">အလိုအေလ်ာက္</string>
+  <string name="pref_camera_whitebalance_entry_incandescent">အလင္းျဖာျခင္း</string>
+  <string name="pref_camera_whitebalance_entry_daylight">ေန႔အလင္းေရာင္</string>
+  <string name="pref_camera_whitebalance_entry_fluorescent">မီးလင္းလက္ေသာ</string>
+  <string name="pref_camera_whitebalance_entry_cloudy">တိမ္ထူေသာ</string>
+  <string name="pref_camera_scenemode_title">ျမင္ကြင္းပံုစံ</string>
+  <string name="pref_camera_scenemode_entry_auto">အလိုအေလ်ာက္</string>
+  <string name="pref_camera_scenemode_entry_action">လုပ္ေဆာင္ခ်က္</string>
+  <string name="pref_camera_scenemode_entry_night">ည</string>
+  <string name="not_selectable_in_scene_mode">ျမင္ကြင္းပံုစံတြင္ မေ႐ြးႏိုင္ပါ။</string>
+  <string name="pref_exposure_title">အလင္းႏွင့္ထိေတြ႔ျခင္း</string>
+  <string name="dialog_ok">OK</string>
+  <string name="spaceIsLow_content" product="nosdcard">သင့္ USB သိမ္းဆည္းမႈပစၥည္းတြင္ ေနရာလြတ္ သိပ္မက်န္ေတာ့ပါ။ အရည္အေသြးဆိုင္ရာ အဆင္အျပင္မ်ားကို ေျပာင္းပါ သို႔မဟုတ္ အခ်ိဳ႕႐ုပ္ပံုမ်ားႏွင့္ ဖုိင္မ်ားကို ဖ်က္ပါ။</string>
+  <string name="spaceIsLow_content" product="default">သင့္ SD ကဒ္တြင္ ေနရာလြတ္သိပ္မက်န္ေတာ့ပါ။ အရည္အေသြးဆိုင္ရာ အဆင္အျပင္မ်ားကို ေျပာင္းပါ သို႔မဟုတ္ အခ်ိဳ႕႐ုပ္ပံုမ်ားႏွင့္ ဖုိင္မ်ားကို ဖ်က္ပါ။</string>
+  <string name="video_reach_size_limit">အ႐ြယ္အစားကန္႔သတ္ခ်က္သို႔ ေရာက္႐ွိ။</string>
+  <string name="pano_too_fast_prompt">ျမန္လြန္းသည္</string>
+  <string name="pano_dialog_prepare_preview">ျမင္ကြင္းက်ယ္ ျပင္ဆင္ေနဆဲ</string>
+  <string name="pano_dialog_panorama_failed">ျမင္ကြင္းက်ယ္မသိမ္းႏိုင္ပါ။</string>
+  <string name="pano_dialog_title">ျမင္ကြင္းက်ယ္</string>
+  <string name="pano_capture_indication">ျမင္ကြင္းက်ယ္ပံုစံ႐ိုက္ကူးေနသည္</string>
+  <string name="pano_review_saving_indication_str">သိမ္းေနဆဲ\u2026</string>
+  <string name="tap_to_focus">ဆံုခ်က္ခ်ိန္ရန္ထိပါ။</string>
+  <string name="pref_video_effect_title">သက္ေရာက္ခ်က္မ်ား</string>
+  <string name="effect_none">တစ္ေယာက္မွ်</string>
+  <string name="effect_goofy_face_squeeze">ညွစ္ပါ</string>
+  <string name="effect_goofy_face_big_eyes">မ်က္လံုးၾကီး</string>
+  <string name="effect_goofy_face_big_mouth">ပါးစပ္ၾကီး</string>
+  <string name="effect_goofy_face_small_mouth">ပါးစပ္အေသး</string>
+  <string name="effect_goofy_face_big_nose">ႏွာေခါင္းၾကီး</string>
+  <string name="effect_goofy_face_small_eyes">မ်က္လံုးအေသး</string>
+  <string name="effect_backdropper_space">ေလဟာနယ္တြင္</string>
+  <string name="effect_backdropper_sunset">ေနဝင္ခ်ိန္</string>
+  <string name="effect_backdropper_gallery">သင္ကိုယ္တိုင္ ေ႐ြးပါ</string>
+  <string name="bg_replacement_message">သင့္ပစၥည္းအား ခ်ထားပါ\nၾကည့္႐ႈခ်က္မွ ခဏတာ ထြက္ပါ</string>
+  <string name="video_snapshot_hint">ဗီဒီယို႐ိုက္ကူးစဥ္ ျပန္လည္ၾကည့္႐ႈခ်က္စကရင္ကို ထိျခင္းျဖင့္ ဓာတ္ပံု႐ိုက္ကူးပါ။</string>
+  <string name="disable_video_snapshot_hint">ဗီဒီယိုလွ်ပ္တစ္ျပက္႐ိုက္ကူးျခင္းအား အထူးသက္ေရာက္ခ်က္မ်ားဖြင့္ထားစဥ္ ပိတ္ထားသည္။</string>
+  <string name="clear_effects">သက္ေရာက္ခ်က္မ်ားကို ႐ွင္းလင္းပါ</string>
+  <string name="effect_silly_faces">အူေၾကာင္ေၾကာင္မ်က္ႏွာမ်ား</string>
+  <string name="effect_background">ေနာက္ခံ</string>
+  <string name="accessibility_shutter_button">အလင္းတံခါးခလုတ္</string>
+  <string name="accessibility_review_thumbnail">မၾကာေသးမီကဓာတ္ပံု</string>
+  <string name="accessibility_camera_picker">ေ႐ွ႕ဘက္ႏွင့္ေနာက္ဘက္ကင္မရာေျပာင္းျခင္း</string>
+  <string name="accessibility_mode_picker">ကင္မရာ၊ ဗီဒီယို သို႔မဟုတ္ ျမင္ကြင္းက်ယ္ေ႐ြးခ်ယ္စက္</string>
+  <string name="accessibility_second_level_indicators">ေနာက္ထပ္အဆင္အျပင္ထိန္းခ်ဳပ္ခ်က္မ်ား</string>
+  <string name="accessibility_back_to_first_level">အဆင္အျပင္ထိန္းခ်ဳပ္ခ်က္မ်ားကို ပိတ္ပါ</string>
+  <string name="accessibility_zoom_control">ခ်ဲ႕အားထိန္းညွိခ်က္</string>
+  <string name="accessibility_decrement">%1$s ေလ်ာ့သည္</string>
+  <string name="accessibility_increment">%1$s တိုး</string>
+  <string name="pano_dialog_waiting_previous">ရလဒ္မ်ားကို ေစာင့္ဆိုင္းေနဆဲ</string>
+  <string name="accessibility_switch_to_camera">ဓါတ္ပံုသို႕လွည့္ပါ။</string>
+  <string name="accessibility_switch_to_video">ဗီဒီယိုသို႕လွည့္ပါ။</string>
+  <string name="accessibility_switch_to_panorama">ပန္းခ်ီဓါတ္ပံုလိုက္ကာသို႕လွည့္ပါ။</string>
+</resources>

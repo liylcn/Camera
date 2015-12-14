@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_error_title">ئاپىرات خاتالىقى</string>
+  <string name="cannot_connect_camera">ئاپپاراتقا ئۇلانمىدى.</string>
+  <string name="camera_disabled">بىخەتەرلىك سىياسىتى چەكلىمىسى تۈپەيلى ئاپپارات توختىتىلدى.</string>
+  <string name="camera_label">كامېرا</string>
+  <string name="video_camera_label">تېلكامىرا</string>
+  <string name="wait">ساقلاڭ\u2026</string>
+  <string name="no_storage" product="nosdcard">فوتو ئاپپارات ئىشلىتىشتىن بۇرۇن USB ساقلىغۇچ قاچىلاڭ.</string>
+  <string name="no_storage" product="default">فوتوئاپپارات ئېشلىىتىشتىن ئىلگىرى SDكارتا سىلىڭ.</string>
+  <string name="preparing_sd" product="nosdcard">USB ساقلىغۇچ تەييارلىنىۋاتىدۇ/u2026</string>
+  <string name="preparing_sd" product="default">SD كارتا تەييارلاش\u2026</string>
+  <string name="access_sd_fail" product="nosdcard">USB ساقلاش ئۈسكۈنىسىنى زىيارەت قىلىشقا بولمايدۇ.</string>
+  <string name="access_sd_fail" product="default">SD كارتىنى زىيارەت قىلىشقا بولمايدۇ.</string>
+  <string name="review_cancel">"بىكار قىلىش"</string>
+  <string name="review_ok">تاماملاش</string>
+  <string name="time_lapse_title">كۆچۈرۈش ۋاقتىنى ئۇزارتىش</string>
+  <string name="pref_camera_id_title">كامىرا تاللاش</string>
+  <string name="pref_camera_id_entry_back">قايتىش</string>
+  <string name="pref_camera_id_entry_front">ئالدى</string>
+  <string name="pref_camera_recordlocation_title">ساقلايدىغان ئورۇن</string>
+  <string name="pref_video_quality_title">سىن سۈپىتى</string>
+  <string name="pref_video_time_lapse_frame_interval_title">ۋاقىت ئارلىقنى ئۇزارتىش  </string>
+  <string name="pref_camera_settings_category">كامېرا رەسىملىرى</string>
+  <string name="pref_camcorder_settings_category">تېلكامىرا لاھىيەسى</string>
+  <string name="pref_camera_picturesize_title">رەسىم چوڭ كىچىكلىكى</string>
+  <string name="pref_camera_focusmode_title">فوكۇس شەكلى</string>
+  <string name="pref_camera_focusmode_entry_auto">ئاپتوماتىك</string>
+  <string name="pref_camera_focusmode_entry_infinity">چەكسىز</string>
+  <string name="pref_camera_focusmode_entry_macro">مىكرو</string>
+  <string name="pref_camera_flashmode_title">چاقناش شەكلى</string>
+  <string name="pref_camera_flashmode_entry_auto">ئاپتوماتىك</string>
+  <string name="pref_camera_flashmode_entry_on">ئېچىش</string>
+  <string name="pref_camera_flashmode_entry_off">ئىتىۋىتىش</string>
+  <string name="pref_camera_whitebalance_title">ئاق تەمپۇڭ</string>
+  <string name="pref_camera_whitebalance_entry_auto">ئاپتوماتىك</string>
+  <string name="pref_camera_whitebalance_entry_incandescent">چوغلانما لامپا</string>
+  <string name="pref_camera_whitebalance_entry_daylight">كۈندۈز</string>
+  <string name="pref_camera_whitebalance_entry_fluorescent">فىلوئوسېنسېرىسلىك چىراق</string>
+  <string name="pref_camera_whitebalance_entry_cloudy">بۇلۇتلۇق</string>
+  <string name="pref_camera_scenemode_title">كېچە ھالىتى</string>
+  <string name="pref_camera_scenemode_entry_auto">ئاپتوماتىك</string>
+  <string name="pref_camera_scenemode_entry_action">ھەركەت </string>
+  <string name="pref_camera_scenemode_entry_night">كېچە</string>
+  <string name="not_selectable_in_scene_mode">تەسۋىر ئېلىش ھالىتىدە تاللىغىلى بولمايدۇ.</string>
+  <string name="pref_exposure_title">ئېكسپوزىتسىيە</string>
+  <string name="dialog_ok">بولدى</string>
+  <string name="spaceIsLow_content" product="nosdcard">سىزنىڭ USB ئۈسكۈنە سىغىمىڭىز تۇگىدى.سىغىمچانلىقىنى ئۆزگەرتىڭ  ياكى بىر قىسىم سۈرەتلەرنى ياكى باشقا ھۆججەتلەرنى ئۈچۈرۋېتىڭ. </string>
+  <string name="spaceIsLow_content" product="default">سىزنىڭ SD كارتىڭىزنىڭ سىغىمى تۇگىدى.سىغىمچانلىقىنى ئۆزگەرتىڭ  ياكى بىر قىسىم سۈرەتلەرنى ياكى باشقا ھۆججەتلەرنى ئۈچۈرۋېتىڭ. </string>
+  <string name="video_reach_size_limit">ئۆلچەم چەكلىمىسىگە يەتتى</string>
+  <string name="pano_too_fast_prompt">بەك تېز </string>
+  <string name="pano_dialog_prepare_preview">پۈتۈن كۆرۈنۈش سۈرىتى تەڭلىشىلىۋاتىدۇ</string>
+  <string name="pano_dialog_panorama_failed">پۈتۈن كۆرۈنۈشلۈك سۈرەتنى ساقلىغىلى بولمىدى.</string>
+  <string name="pano_dialog_title">پۈتۈن كۆرۈنۈش سۈرئىتى</string>
+  <string name="pano_capture_indication">پۈتۈن كۆرۈنۈشلۈك سۈرەت تارتىلىۋاتىدۇ</string>
+  <string name="pano_review_saving_indication_str">ساقلىنىۋاتىدۇ...</string>
+  <string name="tap_to_focus">چېكىش ئارقىلىق فوكۇسنى تەڭشەش. </string>
+  <string name="pref_video_effect_title">ئېففېكتى</string>
+  <string name="effect_none">يوق</string>
+  <string name="effect_goofy_face_squeeze">شەيتان ئەينەك</string>
+  <string name="effect_goofy_face_big_eyes">چوڭ كۆز</string>
+  <string name="effect_goofy_face_big_mouth">چوڭ ئېغىز</string>
+  <string name="effect_goofy_face_small_mouth">كىچىك ئېغىز</string>
+  <string name="effect_goofy_face_big_nose">چوڭ بۇرۇن</string>
+  <string name="effect_goofy_face_small_eyes">كىچىك كۆز</string>
+  <string name="effect_backdropper_space">ئالام بۇشلۇق مەنزىرە كۆرنىشى</string>
+  <string name="effect_backdropper_sunset">كۈن پېتىش</string>
+  <string name="effect_backdropper_gallery">ئاپتوماتىك تاللاش</string>
+  <string name="bg_replacement_message">ئەسۋابنى "\n" كۆرۈنىش ئالدىدىكى پەيتىدىن ئايرىش ھالىتىگە تەڭشەش</string>
+  <string name="video_snapshot_hint">ۋېدىيو تارتقان چاغدا ئالدى كۈرۈنۈش ئېكراننى بېسىپ سۈرەتكە تارتىشقا بولىدۇ.</string>
+  <string name="disable_video_snapshot_hint">ئالاھىدە ئۇنۇمنى ئىشلەتكەندە كامىراتېز تارتىشىنى توختىتىشى كېرەك.</string>
+  <string name="clear_effects">ئېففېكتنى تازىلاش</string>
+  <string name="effect_silly_faces">قىزىقارلىق چىراي ئىپادىلىرى</string>
+  <string name="effect_background">ئارقا سۇپا</string>
+  <string name="accessibility_shutter_button">زانژۇر كۇنۇپىكسى </string>
+  <string name="accessibility_review_thumbnail">ئەڭ يېڭى سۈرەت</string>
+  <string name="accessibility_camera_picker">ئالدى ۋە ئارقا تەسۋىر ئالغۇچ فوتو ئاپپارىتى ئاچقۇچى</string>
+  <string name="accessibility_mode_picker">ئاپپارات، ۋىدىيو ياكى پۈتۈن كۆرۈنۈشلۈك ھالەت تاللىغۇچ</string>
+  <string name="accessibility_second_level_indicators">تېخىمۇ كۆپ بولغان سەپلىمە تىزگۈنلىگۈچ</string>
+  <string name="accessibility_back_to_first_level">تەڭشەك كونتروللىغۇچىنى ئېتىش</string>
+  <string name="accessibility_zoom_control">سەپلىمىنى كىچىلىتىش </string>
+  <string name="accessibility_decrement">%1$sنى كېمەيتىش</string>
+  <string name="accessibility_increment">%1$s نى قوشۇش</string>
+  <string name="pano_dialog_waiting_previous">"ئالدىنقى تولۇق كۆرۈنۈشلۈك سۈرەتنىڭ تاماملىنىشىنى ساقلاۋاتىدۇ"</string>
+  <string name="accessibility_switch_to_camera">"سۈرەتكە يۆتكەش"</string>
+  <string name="accessibility_switch_to_video">"سىنغا يۆتكەش"</string>
+  <string name="accessibility_switch_to_panorama">"كۆرۈنۈشلۈك سۈرەتكە يۆتكەش"</string>
+</resources>

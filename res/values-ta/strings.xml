@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_error_title">கேமிரா பிழை</string>
+  <string name="cannot_connect_camera">கேமிராவை இணைக்க முடியாது.</string>
+  <string name="camera_disabled">பாதுகாப்புக் கொள்கைகள் காரணமாக கேமிரா செயலிழக்க செய்யப்பட்டது.</string>
+  <string name="camera_label">கேமரா</string>
+  <string name="video_camera_label">கேம்கார்டர்</string>
+  <string name="wait">தயவுசெய்து காத்திரு\u2026</string>
+  <string name="no_storage" product="nosdcard">கேமிராவை பயன்படுத்தும் முன்பாக தயவு செய்து USB சேமிப்பகத்தை ஏற்றிவைக்கவும்.</string>
+  <string name="no_storage" product="default">கேமிராவை பயன்படுத்தும் முன்னதாக தயவுசெய்து SD கார்டினை செருகவும்</string>
+  <string name="preparing_sd" product="nosdcard">USB சேமிப்பகத்தை தயார்படுத்துகிறது\u2026</string>
+  <string name="preparing_sd" product="default">SD கார்டினை தயார்செய்கிறது\u2026</string>
+  <string name="access_sd_fail" product="nosdcard">USB சேமிப்பகத்தினை அணுக தவறியது.</string>
+  <string name="access_sd_fail" product="default">SD கார்டினை அணுக தவறியது.</string>
+  <string name="review_cancel">ரத்து</string>
+  <string name="review_ok">செய்யப்பட்டது</string>
+  <string name="time_lapse_title">நேரம் கழித்தல் பதிவாகிறது</string>
+  <string name="pref_camera_id_title">கேமிரா தேர்ந்தெடுக்கவும்</string>
+  <string name="pref_camera_id_entry_back">பின்னே</string>
+  <string name="pref_camera_id_entry_front">முன்புறம்</string>
+  <string name="pref_camera_recordlocation_title">சேமிக்கும் அமைவிடம்</string>
+  <string name="pref_video_quality_title">விடியோ தரம்</string>
+  <string name="pref_video_time_lapse_frame_interval_title">நேரம் கழித்தல் இடைவேளை</string>
+  <string name="pref_camera_settings_category">கேமிரா அமைப்புக்கள்</string>
+  <string name="pref_camcorder_settings_category">கேம்கார்டர் அமைப்புகள்</string>
+  <string name="pref_camera_picturesize_title">பட்த்தின் அளவு</string>
+  <string name="pref_camera_focusmode_title">குவிய மோட்</string>
+  <string name="pref_camera_focusmode_entry_auto">தானியக்கம்</string>
+  <string name="pref_camera_focusmode_entry_infinity">எண்ணிலடங்காத</string>
+  <string name="pref_camera_focusmode_entry_macro">பெரிய அளவிலான</string>
+  <string name="pref_camera_flashmode_title">ஃப்ளாஷ் மோட்</string>
+  <string name="pref_camera_flashmode_entry_auto">தானியக்கம்</string>
+  <string name="pref_camera_flashmode_entry_on">ஆன்</string>
+  <string name="pref_camera_flashmode_entry_off">ஆஃப்</string>
+  <string name="pref_camera_whitebalance_title">வெண் சமன்பாடு</string>
+  <string name="pref_camera_whitebalance_entry_auto">தானியக்கம்</string>
+  <string name="pref_camera_whitebalance_entry_incandescent">மிளிரும்</string>
+  <string name="pref_camera_whitebalance_entry_daylight">பகல்ஒலி</string>
+  <string name="pref_camera_whitebalance_entry_fluorescent">புளோரசண்ட்</string>
+  <string name="pref_camera_whitebalance_entry_cloudy">மேகமூட்டமான</string>
+  <string name="pref_camera_scenemode_title">இரவு பாங்கு</string>
+  <string name="pref_camera_scenemode_entry_auto">தானியக்கம்</string>
+  <string name="pref_camera_scenemode_entry_action">செயல்</string>
+  <string name="pref_camera_scenemode_entry_night">இரவு</string>
+  <string name="not_selectable_in_scene_mode">காட்சி மோடில் தேர்ந்தெடுக்கப்படக்கூடியது அல்ல.</string>
+  <string name="pref_exposure_title">திறந்த வைப்பு</string>
+  <string name="dialog_ok">OK</string>
+  <string name="spaceIsLow_content" product="nosdcard">உங்களுடைய USB சேமிப்பக காலியிடம் தீரப்போகிறது. தர அமைப்பினை மாற்றவும் அல்லது சில படங்கள் அல்லது மற்ற கோப்புக்களை அழிக்கவும்.</string>
+  <string name="spaceIsLow_content" product="default">உங்களுடைய SD கார்டு காலியிடம் தீரப்போகிறது. தர அமைப்பினை மாற்றவும் அல்லது சில படங்கள் அல்லது மற்ற கோப்புக்களை அழிக்கவும்.</string>
+  <string name="video_reach_size_limit">அள்வு வரம்பு அடைந்த்து.</string>
+  <string name="pano_too_fast_prompt">அதி விரைவு</string>
+  <string name="pano_dialog_prepare_preview">பேனோரமாவை தயார்ப்படுத்துகிறது</string>
+  <string name="pano_dialog_panorama_failed">பேனோரமா சேமிக்க முடியவில்லை.</string>
+  <string name="pano_dialog_title">பேனோரமா</string>
+  <string name="pano_capture_indication">பேனோரமாவை படம் பிடிக்கிறது</string>
+  <string name="pano_review_saving_indication_str">சேமிக்கிறது\u2026 </string>
+  <string name="tap_to_focus">குவித்துக் காட்ட தொடவும்.</string>
+  <string name="pref_video_effect_title">விளைவுகள்</string>
+  <string name="effect_none">ஒன்றுமில்லை</string>
+  <string name="effect_goofy_face_squeeze">பிழியவும்</string>
+  <string name="effect_goofy_face_big_eyes">பெரிய கண்கள்</string>
+  <string name="effect_goofy_face_big_mouth">பெரிய வாய்</string>
+  <string name="effect_goofy_face_small_mouth">சிறிய வாய்</string>
+  <string name="effect_goofy_face_big_nose">பெரிய மூக்கு</string>
+  <string name="effect_goofy_face_small_eyes">சிறிய கணகள்</string>
+  <string name="effect_backdropper_space">வெற்றிடத்தில்</string>
+  <string name="effect_backdropper_sunset">சூரிய அஸ்தமனம்</string>
+  <string name="effect_backdropper_gallery">உங்களுக்கு சொந்தமானதை தெரிவு செய்யவும்</string>
+  <string name="bg_replacement_message">உங்கள் சாதனத்தை கீழாக வைக்கவும்\nஒரு கணத்திற்கு பார்வையில் இருந்து அகலவும்</string>
+  <string name="video_snapshot_hint">முன்காணும் திரையைத்தொட்டு வீடியோ பதிவின் போது ஒரு புகைப்படம் எடுக்கவும்.</string>
+  <string name="disable_video_snapshot_hint">சிறப்பு விளைவுகள் செயலில் இருக்கையில் வீடியோ துண்டுப்படம் செயலிழக்க வைக்கப்பட்டது.</string>
+  <string name="clear_effects">விளைவுகளை அகற்றவும்</string>
+  <string name="effect_silly_faces">வேடிக்கையான முகங்கள்</string>
+  <string name="effect_background">பின்னணி</string>
+  <string name="accessibility_shutter_button">ஷட்டர் பட்டன்</string>
+  <string name="accessibility_review_thumbnail">மிக சமீபத்திய புகைப்படம்</string>
+  <string name="accessibility_camera_picker">முன் மற்றும் பின்புற கேமிரா சுவிட்ச்</string>
+  <string name="accessibility_mode_picker">கேமிரா, வீடியோ, அல்லது பேனோரமா தெரிவாளர்</string>
+  <string name="accessibility_second_level_indicators">மேலும் அதிக அமைப்பு கட்டுப்பாடுகள்</string>
+  <string name="accessibility_back_to_first_level">அமைப்புக் கட்டுப்பாடுகளை மூடவும்</string>
+  <string name="accessibility_zoom_control">பெரிதாக்கல் கட்டுப்பாடு</string>
+  <string name="accessibility_decrement">%1$s குறைக்கவும்</string>
+  <string name="accessibility_increment">%1$s அதிகரிக்கவும்</string>
+  <string name="pano_dialog_waiting_previous">முன்னதான பரந்த காட்சிக்காக காத்திருக்கிறது</string>
+  <string name="accessibility_switch_to_camera">புகைப்படத்திற்கு சுவிட்ச் செய்க</string>
+  <string name="accessibility_switch_to_video">வீடியோவுக்கு சுவிட்ச் செய்க</string>
+  <string name="accessibility_switch_to_panorama">பேனோரமா காட்சிக்கு சுவிட்ச் செய்க</string>
+</resources>

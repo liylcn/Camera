@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_error_title">កាមេរ៉ាមានកំហុស</string>
+  <string name="cannot_connect_camera">មិនអាចតភ្ជាប់នឹងកាមេរ៉ា។</string>
+  <string name="camera_disabled">កាមេរ៉ាបានបិទដោយនគរបាលសន្ដិសុខ។</string>
+  <string name="camera_label">កាមេរ៉ា</string>
+  <string name="video_camera_label">កាមេរ៉ាវីដេអូ</string>
+  <string name="wait">សូមចាំបន្តិច</string>
+  <string name="no_storage" product="nosdcard">សូមដំឡើងអង្គចងចាំ USBមុនពេលប្រើប្រាស់កាមេរ៉ា</string>
+  <string name="no_storage" product="default">មិនអាចចូលដំណើរដល់អង្គចងចាំ។</string>
+  <string name="preparing_sd" product="nosdcard">កំពុងរៀបចំអង្គចងចាំUSB</string>
+  <string name="preparing_sd" product="default">កំពុងរៀបចំកាតSD</string>
+  <string name="access_sd_fail" product="nosdcard">មិនអាចចូលដំណើរដល់អង្គចងចាំUSB។</string>
+  <string name="access_sd_fail" product="default">មិនអាចចូលដំណើរដល់SD</string>
+  <string name="review_cancel">បោះបង់</string>
+  <string name="review_ok">សំលាប់</string>
+  <string name="time_lapse_title">ពន្យាពេលថត</string>
+  <string name="pref_camera_id_title">ជ្រើសរើសកាមេរ៉ា</string>
+  <string name="pref_camera_id_entry_back">ត្រឡប់ទៅ</string>
+  <string name="pref_camera_id_entry_front">កាមេរ៉ា</string>
+  <string name="pref_camera_recordlocation_title">ទីកន្លែងរក្សាទុក</string>
+  <string name="pref_video_quality_title">គុណភាពវីដេអូ</string>
+  <string name="pref_video_time_lapse_frame_interval_title">ចន្លោះពន្យាពេល</string>
+  <string name="pref_camera_settings_category">ការកំណត់កាមេរ៉ា</string>
+  <string name="pref_camcorder_settings_category">ការកំណត់កាមេរ៉ាវីដេអូ</string>
+  <string name="pref_camera_picturesize_title">ទំហំរូបថត</string>
+  <string name="pref_camera_focusmode_title">របៀបផ្តោត</string>
+  <string name="pref_camera_focusmode_entry_auto">ស្វ័យប្រវត្តិ</string>
+  <string name="pref_camera_focusmode_entry_infinity">ឥតឧបមា</string>
+  <string name="pref_camera_focusmode_entry_macro">មីក្រូ</string>
+  <string name="pref_camera_flashmode_title">របៀបបញ្ចេញពន្លឹភែ្លតៗ</string>
+  <string name="pref_camera_flashmode_entry_auto">ស្វ័យប្រវត្តិ</string>
+  <string name="pref_camera_flashmode_entry_on">បើក</string>
+  <string name="pref_camera_flashmode_entry_off">បិទ</string>
+  <string name="pref_camera_whitebalance_title">តុល្យភាពពណ៌ស</string>
+  <string name="pref_camera_whitebalance_entry_auto">ស្វ័យប្រវត្តិ</string>
+  <string name="pref_camera_whitebalance_entry_incandescent">អំពូល</string>
+  <string name="pref_camera_whitebalance_entry_daylight">មេឃស្រឡះ</string>
+  <string name="pref_camera_whitebalance_entry_fluorescent">ចង្កៀងដែលទទួលពន្លឺពីគេ</string>
+  <string name="pref_camera_whitebalance_entry_cloudy">មេឃដាស</string>
+  <string name="pref_camera_scenemode_title">រូបមន្តយករូបភាព</string>
+  <string name="pref_camera_scenemode_entry_auto">ស្វ័យប្រវត្តិ</string>
+  <string name="pref_camera_scenemode_entry_action">សកម្មភាព</string>
+  <string name="pref_camera_scenemode_entry_night">ទិដ្ឋភាពរាត្រី</string>
+  <string name="not_selectable_in_scene_mode">មិនអាចជ្រើសរើសទេនៅក្នុងរូបមន្តយករូបភាព</string>
+  <string name="pref_exposure_title">ការធ្វើឲ្យដឹងឮជាសាធារណះ</string>
+  <string name="dialog_ok">បានហើយ</string>
+  <string name="spaceIsLow_content" product="nosdcard">គ្មានអង្គចងចាំUSBគ្រប់គ្រាន់​។សូមប្ដូរការកំណត់គុណភាពរូបភាព ឬលុបរូបភាពឬ​ឯកសារឯទៀតខ្លះ។</string>
+  <string name="spaceIsLow_content" product="default">កាតSDគ្មានអង្គចងចាំគ្រប់គ្រាន់​​ សូមប្ដូរការកំណត់គុណភាពរូបភាព ឬលុបរូបភាពឬ​ឯកសារឯទៀតខ្លះ។</string>
+  <string name="video_reach_size_limit">បានទៅដល់កំរិតហើយ</string>
+  <string name="pano_too_fast_prompt">លឿនពេក</string>
+  <string name="pano_dialog_prepare_preview">ប្លង់ទាំងមូលដែលកំពុងបង្កើត</string>
+  <string name="pano_dialog_panorama_failed">មិនអាចរក្សាទុករូបថតទិដ្ឋភាព។</string>
+  <string name="pano_dialog_title">ប្លង់ទាំងមូល</string>
+  <string name="pano_capture_indication">ចាប់យករូបថតទិដ្ឋភាព</string>
+  <string name="pano_review_saving_indication_str">កំពុងរក្សាទុក</string>
+  <string name="tap_to_focus">ប៉ះ​ដើម្បី​ផ្តោត។</string>
+  <string name="pref_video_effect_title">លទ្ធផល</string>
+  <string name="effect_none">អត់</string>
+  <string name="effect_goofy_face_squeeze">កញ្ចក់មុខ</string>
+  <string name="effect_goofy_face_big_eyes">ភ្នែកធំ</string>
+  <string name="effect_goofy_face_big_mouth">មាត់ធំ</string>
+  <string name="effect_goofy_face_small_mouth">មាត់តូច</string>
+  <string name="effect_goofy_face_big_nose">ច្រមុះធំ</string>
+  <string name="effect_goofy_face_small_eyes">ភ្នែកតូច</string>
+  <string name="effect_backdropper_space">ទិដ្ឋភាព</string>
+  <string name="effect_backdropper_sunset">ព្រះអាទិត្យលិច</string>
+  <string name="effect_backdropper_gallery">ជ្រើសរើសជាកម្មសិទិ្ធ</string>
+  <string name="bg_replacement_message">ដាក់ឧបករណ៍ឲ្យបានល្អ\nនៅពេលចាកចេញមុខកញ្ចក់</string>
+  <string name="video_snapshot_hint">នៅពេលថតវីដេអូ ប៉ះអេក្រង់ក៏អាចថតរូប</string>
+  <string name="disable_video_snapshot_hint">​រូបថត​វីដេអូ​ត្រូវបានបិទ​នៅពេលប្រើ​បែបផែនពិសេស។</string>
+  <string name="clear_effects">ជម្រះប្រសិទ្ធិភាព</string>
+  <string name="effect_silly_faces">មុខគួរឲ្យសើច</string>
+  <string name="effect_background">ផ្ទៃខាងក្រោយ</string>
+  <string name="accessibility_shutter_button">ប៊ូតុងបើកបិទ</string>
+  <string name="accessibility_review_thumbnail">រូបថតថ្មីបំផុត</string>
+  <string name="accessibility_camera_picker">ទីកន្លែងបើកបិទនៃកាមេរ៉ា</string>
+  <string name="accessibility_mode_picker">កាមេរ៉ា វីដេអូឬឧបករណ៍ជ្រើសរើសទេសភាពទាំងស្រុង</string>
+  <string name="accessibility_second_level_indicators">គ្រឿងគ្រប់គ្រងខាងកំណត់ច្រើនទៀត</string>
+  <string name="accessibility_back_to_first_level">បិទវត្ថុបញ្ជាការកំណត់</string>
+  <string name="accessibility_zoom_control">វត្ថុបញ្ជាពង្រីក</string>
+  <string name="accessibility_decrement">បន្ថយ%1$s</string>
+  <string name="accessibility_increment">បន្ថែម%1$s</string>
+  <string name="pano_dialog_waiting_previous">"កំពុងរងចាំបង្កើតរូបភាពមានទិដ្ឋភាពទាំងស្រុងខាងមុខ"</string>
+  <string name="accessibility_switch_to_camera">"ប្តូរទៅថតរូប"</string>
+  <string name="accessibility_switch_to_video">ប្តូរទៅវីដេអូ</string>
+  <string name="accessibility_switch_to_panorama">ប្តូរទៅដល់អេក្រង់ទាំងមូល</string>
+</resources>

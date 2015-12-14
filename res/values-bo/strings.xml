@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_error_title">པར་ཆས་ཆག་སྐྱོན།</string>
+  <string name="cannot_connect_camera">པར་ཆས་ལ་འབྲེལ་མཐུད་བྱེད་མི་ཐུབ།</string>
+  <string name="camera_label">པར་ཆས།</string>
+  <string name="video_camera_label">བརྙན་ཆས།</string>
+  <string name="wait">ཕྲན་ཙམ་སྒུག་རོགས།...</string>
+  <string name="no_storage" product="nosdcard">སྔོན་ལ་USBཉར་གསོག་སྒྲིག་ཆས་འཇུག་དགོས། དེ་ནས་པར་ཆས་སྤྱོད་དགོས།</string>
+  <string name="no_storage" product="default">པར་ཆས་བེད་སྤྱོད་མ་བྱས་སྔོན་ལ་SDཁཱ་འཇུག་དགོས།</string>
+  <string name="preparing_sd" product="nosdcard">USBགསོག་ཉར་སྒྲིག་ཆས་གྲ་སྒྲིག་བྱེད་བཞིན་ཡོད།...</string>
+  <string name="preparing_sd" product="default">SDཁཱ་གྲ་སྒྲིག་བྱེད་བཞིན་ཡོད།...</string>
+  <string name="access_sd_fail" product="nosdcard">USBགསོག་ཉར་སྒྲིག་ཆས་ལ་འཚམས་འདྲི་བྱེད་མི་ཐུབ།</string>
+  <string name="access_sd_fail" product="default">SDཁཱ་ལ་འཚམས་འདྲི་བྱེད་མི་ཐུབ།</string>
+  <string name="review_cancel">སྐྱུར་བ།</string>
+  <string name="review_ok">རྒྱུས་ལོན་པ།</string>
+  <string name="pref_camera_id_title">པར་ཆས་འདེམས་པ།</string>
+  <string name="pref_camera_id_entry_back">ཕྱིར་ལོག</string>
+  <string name="pref_camera_id_entry_front">མདུན་ངོས་པར་ཆས།</string>
+  <string name="pref_camera_recordlocation_title">ས་གནས།</string>
+  <string name="pref_video_quality_title">བརྙན་ཟློས་རི་མོའི་སྤུས་ཚད།</string>
+  <string name="pref_camera_settings_category">པར་ཆས་སྒྲིག་འགོད།</string>
+  <string name="pref_camcorder_settings_category">བརྙན་ཆས་སྒྲིག་འགོད།</string>
+  <string name="pref_camera_picturesize_title">འདྲ་པར་ཆེ་ཆུང་།</string>
+  <string name="pref_camera_focusmode_title">མདོ་སྒྲིག་རྣམ་པ།</string>
+  <string name="pref_camera_focusmode_entry_auto">རང་འགུལ་</string>
+  <string name="pref_camera_focusmode_entry_infinity">ཚད་མེད་ཐག་རིང་།</string>
+  <string name="pref_camera_focusmode_entry_macro">ཐག་ཉེ།</string>
+  <string name="pref_camera_flashmode_title">འོད་འཁྱུག་དཔེ་རྣམ།</string>
+  <string name="pref_camera_flashmode_entry_auto">རང་འགུལ་</string>
+  <string name="pref_camera_flashmode_entry_on">ཁ་ཕྱེ་བ།</string>
+  <string name="pref_camera_flashmode_entry_off">ཁ་རྒྱག་པ།</string>
+  <string name="pref_camera_whitebalance_title">ཆ་སྙོམས་དཀར་པོ།</string>
+  <string name="pref_camera_whitebalance_entry_auto">རང་འགུལ་</string>
+  <string name="pref_camera_whitebalance_entry_incandescent">འོད་དཀར།</string>
+  <string name="pref_camera_whitebalance_entry_daylight">གནམ་དྭངས་པ།</string>
+  <string name="pref_camera_whitebalance_entry_fluorescent">ཉི་འོད།</string>
+  <string name="pref_camera_whitebalance_entry_cloudy">གནམ་འཐིབས་པ།</string>
+  <string name="pref_camera_scenemode_title">ལྗོངས་འདེམས་དཔེ་རྣམ།</string>
+  <string name="pref_camera_scenemode_entry_auto">རང་འགུལ་</string>
+  <string name="pref_camera_scenemode_entry_action">ལུས་རྩལ།</string>
+  <string name="pref_camera_scenemode_entry_night">མཚན་ལྗོངས།</string>
+  <string name="pref_exposure_title">འོད་ཕོག</string>
+  <string name="spaceIsLow_content" product="nosdcard">WLAN Direct connection setup request from <xliff:g id="p2p_device_address">%1$s</xliff:g>. Enter pin to proceed. </string>
+  <string name="spaceIsLow_content" product="default">WPS pin <xliff:g id="p2p_wps_pin">%1$s</xliff:g> needs to be entered on the peer device <xliff:g id="p2p_client_address">%2$s</xliff:g> for connection setup to proceed </string>
+  <string name="video_reach_size_limit">གོང་མུར་སླེབས་འདུག</string>
+  <string name="camera_disabled">བདེ་འཇགས་སྲིད་ཇུས་ཀྱི་ཚད་བཀག་ལྟར། པར་ལེན་འཕྲུལ་ཆས་བཀོལ་མཚམས་བཞག་འདུག</string>
+  <string name="time_lapse_title">ཡུན་འགྱངས་སྒྲ་ཕབ། </string>
+  <string name="pref_video_time_lapse_frame_interval_title">བར་ཐག་ཡུན་འགྱངས་བྱེད་པ། </string>
+  <string name="not_selectable_in_scene_mode">ལྗོངས་ངོས་རྣམ་པ་འདེམ་ཐབས་མེད། </string>
+  <string name="dialog_ok">ཁ་རྒྱག་པ།</string>
+  <string name="pano_too_fast_prompt">འགྱོགས་དྲགས། </string>
+  <string name="pano_dialog_prepare_preview">ལྗོངས་ངོས་འདྲ་པར་གྲུབ་བཞིན་ཡོད། </string>
+  <string name="pano_dialog_panorama_failed">ལྗོངས་ངོས་འདྲ་པར་གསོག་ཉར་བྱེད་ཐབས་མེད། </string>
+  <string name="pano_dialog_title">ལྗོངས་རྣམ་འདྲ་རིས། </string>
+  <string name="pano_capture_indication">ལྗོངས་རྣམ་འདྲ་པར་ལེན་བཞིན་ཡོད། </string>
+  <string name="pano_review_saving_indication_str">གསོག་ཉར་བྱེད་བཞིན་པ། </string>
+  <string name="tap_to_focus">གྲིམ་ལྷོད་བརྗེ་བ། </string>
+  <string name="pref_video_effect_title">ནུས་པ། </string>
+  <string name="effect_none">མེད།</string>
+  <string name="effect_goofy_face_squeeze">བཙུར་བ། </string>
+  <string name="effect_goofy_face_big_eyes">མིག་ཆེན། </string>
+  <string name="effect_goofy_face_big_mouth">ཁ་ཀྱལ། </string>
+  <string name="effect_goofy_face_small_mouth">ཁ་ཆུང་། </string>
+  <string name="effect_goofy_face_big_nose">སྣ་བོ་ཆེ། </string>
+  <string name="effect_goofy_face_small_eyes">མིག་ཆུང་། </string>
+  <string name="effect_backdropper_space">བར་སྣང་། </string>
+  <string name="effect_backdropper_sunset">ཉི་བཞུད།</string>
+  <string name="effect_backdropper_gallery">རང་གིས་འདེམ་པ། </string>
+  <string name="bg_replacement_message">སྒྲིག་ཆས \n བཞག་རྗེས་བརྙན་མདོང་གི་མདུན་ནས་ཡལ་བ། </string>
+  <string name="video_snapshot_hint">བརྙན་ལེན་སྐབས་ལག་པས་རེག་སྟེ་པར་ལེན་པ། </string>
+  <string name="disable_video_snapshot_hint">ཁྱད་ལྡན་ནུས་པ་བཀོལ་སྐབས་པར་ལེན་ལ་ནུས་པ་མེད། </string>
+  <string name="clear_effects">ཁྱད་ནུས་སུབ་པ། </string>
+  <string name="effect_silly_faces">སྤྲོ་སྣང་གི་ཉམས་འགྱུར། </string>
+  <string name="effect_background">རྒྱབ་ལྗོངས། </string>
+  <string name="accessibility_shutter_button">མགྱོགས་པའི་མཐེབ་གནོན། </string>
+  <string name="accessibility_review_thumbnail">འདྲ་པར་གསར་བ། </string>
+  <string name="accessibility_camera_picker">མདུན་རྒྱབ་གཉིས་ཀྱི་པར་ལེན་ཕན་ཚུན་བརྗེ་བ། </string>
+  <string name="accessibility_mode_picker">པར་ལེན་དང་བརྙན་ལེན། ལྗོངས་རྣམ་འདེམ་ཆས། </string>
+  <string name="accessibility_second_level_indicators">ཇུས་འགོད་སྒྲིག་ཆས་མང་པོ། </string>
+  <string name="accessibility_back_to_first_level">ཇུས་འགོད་སྒྲིག་ཆས་ཁ་རྒྱག་པ། </string>
+  <string name="accessibility_zoom_control">ཆེ་ཆུང་སྒྲིག་ཆས། </string>
+  <string name="accessibility_decrement">ཉུང་འཕྲི། %1$s</string>
+  <string name="accessibility_increment">སྣོན་པ། %1$s</string>
+  <string name="pano_dialog_waiting_previous">"གོང་གི་ལྗོངས་ཡོངས་ཀྱི་པར་རིས་ལ་སྒུག"</string>
+  <string name="accessibility_switch_to_camera">"པར་ལེན་དུ་བརྗེ་སྤོར་བྱེད།"</string>
+  <string name="accessibility_switch_to_video">"བརྙན་ལེན་དུ་བརྗེ་སྤོར་བྱེད།"</string>
+  <string name="accessibility_switch_to_panorama">"ལྗོངས་ཡོངས་སུ་བརྗེ་སྤོར་བྱེད།"</string>
+</resources>
